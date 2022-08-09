@@ -8,7 +8,7 @@ I am a student of Delhi Public School Bangalore South Kanakapura road. I am in t
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
 
 ### **✨ My Bootcamp Ideation - Computer Vision Project!**
-I will be working with TensorFlow throughout this project as OpenCV and OpenVINO were being stubborn 😊 and it seems to be an effective alternative!
+My project is basically a set of code which allows  Artificial Intelligence to ./?
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
 
@@ -25,6 +25,7 @@ We can use CV AI to help the robot identify garbage in the oceans so that the li
 ### **🌏 17 SDGs**
 I plan on implementing the "Life Below Water" SDG (Sustainable Development Goal) which is the 14th of the 17 total. This means that I aim to conserve and sustainably use the oceans, seas and marine resources for sustainable development.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
+> NOTE - I will be working with TensorFlow throughout this project as OpenCV and OpenVINO were being stubborn 😊 and it seems to be an effective alternative!
+
 
 > Cloning Resource:	[tensorflow/models](https://github.com/tensorflow/models) <- All from one directory
