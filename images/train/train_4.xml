@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_4.png</filename>
+	<path>/Users/julie/Desktop/Mostly Everything Else/GC/images/train/train_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>959</width>
+		<height>539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dolphin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>40</ymin>
+			<xmax>732</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>
